@@ -48,10 +48,6 @@ During this project, I learned how to:
 ```html
 <h1>Simple Omelette Recipe</h1>
 
-<!-- ### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
